@@ -1,1 +1,1 @@
-# stable-diffusion-xl-demo
+# stable-diffusion-xl-handbook
